@@ -12,7 +12,7 @@ go get github.com/kavu/go-ratchetio
 
 ## Example
 
-```
+```go
 package main
 
 import (
